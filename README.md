@@ -1,4 +1,5 @@
 ## Lexical inferencing strategies' use by German L3 learners in Spain
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3757135.svg)](https://doi.org/10.5281/zenodo.3757135)
 
 #### Study on lexical inferencing strategies used by German as a L3 learners at the University of Salamanca (Spain)
 
